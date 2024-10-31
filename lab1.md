@@ -69,6 +69,8 @@ Do uzycia cosmos db niezbedne jest utowrzenie konta Cosmos DB
 
 ## Aplikacja łącząca się z bazą
 Screen z konsoliu aplikacji łączącej sie z baza danych
+
+
 ![App Connection 3](https://github.com/user-attachments/assets/076608b3-2b1d-4034-9326-87369054622a)
 
 ## Zmiana limitu RU
